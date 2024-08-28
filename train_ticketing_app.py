@@ -5,7 +5,7 @@ st.markdown(
     """
     <style>
     .main {
-        background-image: url("https://images.unsplash.com/photo-1535535112387-56ffe8db21ff?q=80&w=2674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+        background-image: url("https://images.unsplash.com/photo-1535744674503-ae654206da32?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHRyYWlufGVufDB8fDB8fHww");
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
