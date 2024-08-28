@@ -5,7 +5,7 @@ st.markdown(
     """
     <style>
     .main {
-        background-image: url("https://media.istockphoto.com/id/1340284465/es/foto/vista-a%C3%A9rea-de-rail-classification-yard-the-macmillan-yard-maple-vaughan-canad%C3%A1.jpg?s=1024x1024&w=is&k=20&c=K2mtjoB2pnPJyDvu1e-O2aWaQysJyHUThBmRrKItRNc=");
+        background-image: url("https://media.istockphoto.com/id/1211274325/photo/train-wagons-carrying-cargo-containers-for-shipping-companies.webp?b=1&s=612x612&w=0&k=20&c=PQNSFEL-xDNe1LhrOr3cPk313ApYuKYYdSPtBAgXnJE=");
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
