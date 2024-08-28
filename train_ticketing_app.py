@@ -17,7 +17,7 @@ st.markdown(
     }
     .stButton>button {
         background-color: #4CAF50;
-        color: white;
+        color: black;
         font-size: 16px;
     }
     .stSelectbox>div>div>div>div>div>div {
@@ -48,7 +48,7 @@ ticket_prices_usd = {
 }
 
 # App title
-st.title("Train Smart Ticketing System")
+st.title("Smart Train Ticketing System")
 
 # Currency selection
 st.sidebar.header("Currency")
