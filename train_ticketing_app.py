@@ -1,15 +1,18 @@
 import streamlit as st
 
-# Set the background color and text style
+# Set a background image
 st.markdown(
     """
     <style>
     .main {
-        background-color: #f0f0f5;
+        background-image: url("https://your-image-url.com/background.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
         color: #333333;
     }
     h1, h2, h3 {
-        color: #2c3e50;
+        color: #ffffff;
         font-family: 'Arial';
     }
     .stButton>button {
